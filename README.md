@@ -16,10 +16,15 @@ Your laboratory logbook is an important record of what you do, and should be com
 ### Get the files
 
 - Sign up for a [personal account](https://docs.github.com/en/github/getting-started-with-github/types-of-github-accounts#personal-user-accounts) on [github](https://github.com), or log into your existing account.
-- (Fork this repo)[https://docs.github.com/en/github/getting-started-with-github/fork-a-repo] to your own account.
+
+- ~~(Fork this repo)[https://docs.github.com/en/github/getting-started-with-github/fork-a-repo] to your own account.~~
+
+- Create your own private repository to be your logbook, including a README.md and a license (MIT will do fine).
+
 - [Set up git](https://docs.github.com/en/articles/set-up-git) on your machine, including [authentication](https://docs.github.com/en/articles/set-up-git#next-steps-authenticating-with-github-from-git).
-- [Clone](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#step-2-create-a-local-clone-of-your-fork) your newly-forked repo to your local computer
+- [Clone](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#step-2-create-a-local-clone-of-your-fork) your newly-created repo to your local computer
 - If you are working on windows, you might prefer to use a graphical interface such as [desktop](https://desktop.github.com/) or [gitkraken](https://www.gitkraken.com/).
+- download and copy the contents of the example project to your local logbook, and/or recreate the folder structure yourself.
 
 ### Edit the README
 
